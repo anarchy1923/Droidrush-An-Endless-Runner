@@ -7,7 +7,7 @@
 -  It includes the PlatformSpawner script, a CarController Script, CarManager scripts which allow to control various aspects of the project.
 -  Coding has been implemented in C#, and the game engine used is Unity Game Engine, and the 3d models have been created in Blender.
 -  It also includes the first menu screen, and a High Score Implementation system, which stores the score, each time the app closes.
--  Game is live on the Amazon Appstore as “Droidrush: An Endless Racer
+-  Game is live on the Amazon Appstore as “Droidrush: An Endless Racer"
 
 
 
